@@ -1,0 +1,125 @@
+Pointers
+------------
+0x7ff4285c41bc
+0x7ff427dcd3f5
+0x7ff428e5d7d9
+0x7ff428eaec33
+0x7ff4294194f1
+Raw
+------------
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff4285c41bc]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5) [0x7ff427dcd3f5]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9) [0x7ff428e5d7d9]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33) [0x7ff428eaec33]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1) [0x7ff4294194f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff4285c41bc
+0x7ff427dcd3f5
+0x7ff428e5d7d9
+0x7ff428eaec33
+0x7ff4294194f1
+Raw
+------------
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff4285c41bc]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5) [0x7ff427dcd3f5]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9) [0x7ff428e5d7d9]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33) [0x7ff428eaec33]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1) [0x7ff4294194f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff4285c41bc
+0x7ff427dcd3f5
+0x7ff428e5d7d9
+0x7ff428eaec33
+0x7ff4294194f1
+Raw
+------------
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff4285c41bc]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5) [0x7ff427dcd3f5]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9) [0x7ff428e5d7d9]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33) [0x7ff428eaec33]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1) [0x7ff4294194f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff4285c41bc
+0x7ff427dcd3f5
+0x7ff428e5d7d9
+0x7ff428eaec33
+0x7ff4294194f1
+Raw
+------------
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff4285c41bc]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5) [0x7ff427dcd3f5]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9) [0x7ff428e5d7d9]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33) [0x7ff428eaec33]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1) [0x7ff4294194f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff4285c41bc
+0x7ff427dcd3f5
+0x7ff428e5d7d9
+0x7ff428eaec33
+0x7ff4294194f1
+Raw
+------------
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff4285c41bc]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5) [0x7ff427dcd3f5]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9) [0x7ff428e5d7d9]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33) [0x7ff428eaec33]
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1) [0x7ff4294194f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x3573f5)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13e77d9)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1438c33)
+/home/sagarkar10/anaconda3/envs/datapy/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19a34f1)
+-------------------------------------------------------
+
+
